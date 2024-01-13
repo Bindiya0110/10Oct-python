@@ -1,0 +1,30 @@
+                                                         Assignment Module – 1 (SDLC)
+
+
+
+• What is software?
+     Software: Software is a set of an instruction and data to operate the 
+     computer.
+
+
+• What are the types of applications?
+    There are 2 types of applications:
+      1. Standalone Apps : The application we are installing on our computer is 
+         called a standalone application. To work with any application, if you install 
+         that software into your computer then it is called a standalone application.
+         Ex. Microsoft office, Firefox, Etc.
+      2. Web Apps : Without installing any software, we are working with the 
+         software called a web application.
+         Ex. Facebook.com, G-Mail.com, Etc.
+
+
+• What is programming?
+     Programming: A technological process for telling computer to what kind of
+     tasks to perform in order to solve the problems.
+
+
+• What is Python?
+     Python: Python is a computer programming language often used to build 
+     websites and software, automate tasks, and analyse data. Python is a 
+     general-purpose language, not specialized for any specific problems, and 
+     used to create various programmes.
