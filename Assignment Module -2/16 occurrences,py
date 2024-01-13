@@ -1,0 +1,12 @@
+k=input("Enter your string : ")
+b=input("Enter your word : ")
+n=[]
+v=0
+
+n=k.split(" ")
+
+for i in range (0,len(n)):
+    if (b==n[i]):
+        v=v+1
+print("Count of the word : ")
+print(v)

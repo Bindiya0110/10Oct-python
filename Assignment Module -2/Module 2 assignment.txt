@@ -1,0 +1,23 @@
+                                                              Module 2 assignment
+
+
+
+           (4) How memory is managed in python?
+                   Understanding Memory allocation is important to any software developer as 
+                   writing efficient code means writing a memory-efficient code. Memory 
+                   allocation can be defined as allocating a block of space in the computer 
+                   memory to a program.
+
+
+           (5) What is the purpose continuing statement in python?
+                   The continue statement is used to skip the remaining code inside a loop for the 
+                   current iteration only. For instance, let's use continue instead of a break 
+                   statement in the previous example. When the condition num == 5 becomes 
+                   True, the continue statement gets executed.
+
+
+          (14) What are negative indexes and why are they used?
+                  Negative indexing is used in Python to manipulate sequence objects such as 
+                  lists, arrays, strings, etc. 
+                  Negative indexing retrieves elements from the end by providing negative 
+                  numbers as sequence indexes
