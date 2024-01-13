@@ -1,0 +1,76 @@
+                                                                  Module – 4 (Advance python programming)
+
+
+                       (1) What is file function in python? What is keywords to create write file.
+                              The file function allows the makefile to write to or read from a file.
+                              X – is for create the file
+                              W or A – is for writing in the file.
+
+
+                      (13) Explain Exception handling? What is an Error in Python?
+                              Exception handling is the process of responding to unwanted or unexpected 
+                              events when a computer program runs. Exception handling deals with these 
+                              events to avoid the program or system crashing, and without this process, 
+                              exceptions would disrupt the normal operation of a program.
+                              Errors are problems that occur in the program due to an illegal operation 
+                              performed by the user or by the fault of a programmer, which halts the normal 
+                              flow of the program. Errors are also termed bugs or faults. There are mainly 
+                              two types of errors in python programming.
+
+
+                     (14) How many except statements can a try-except block have? Name Some built-in exception classes:
+                              You can have multiple try blocks in a program but only one except 
+                              statement with each try block.
+                              Arithmetic error, index error, key error
+
+
+                    (15) When will the else part of try-except-else be executed?
+                              The else part is executed when no exception occurs.
+
+
+                    (16) Can one block of except statements handle multiple exception?
+                              Yes, a single block of except statements in Python can handle multiple 
+                              exceptions. This feature allows you to handle different types of exceptions 
+                              using a single block of code.
+
+
+                    (17) When is the finally block executed?
+                              A finally block always executes, regardless of whether an exception is thrown. 
+                              The following code example uses a try / catch block to catch an 
+                              ArgumentOutOfRangeException. The Main method creates two arrays and 
+                              attempts to copy one to the other. 
+
+
+                   (18) What happens when, 1” == 1 is executed?
+                             we get a false
+
+
+                   (21) What are oops concepts? 
+                             Is multiple inheritance supported in java Object-Oriented Programming also known 
+                             as OOPs concepts in python, is what lets us develop applications using an 
+                             Object-Oriented approach. It does so by clubbing together similar or related
+                             behaviours and properties and converting them into objects Java doesn't
+                             support multiple inheritances in classes.
+
+
+                   (27) What is Instantiation in terms of OOP terminology?
+                             Instantiation refers to creating an object/instance for a class.
+
+
+                   (28) What is used to check whether an object o is an instance of class A?
+                             Python isinstance()
+                             The isinstance() function checks if the object (first argument) is an instance or 
+                             subclass of classinfo class (second argument).
+
+
+                   (29) What relationship is appropriate for Course and Faculty?
+                             A faculty is teaching many different subjects to many students from many 
+                             different classes.
+                             Ex. = A teacher is teaching a subject to a class but that same teacher is teaching 
+                             another subject to another class.
+
+ 
+                   (30) What relationship is appropriate for Student and Person?
+                             The term "Student" and "Person" are quite broad, and the appropriate 
+                             relationship between them depends entirely on the specific context like 
+                             Student-teacher, Student-Friend, Student-Family member.
